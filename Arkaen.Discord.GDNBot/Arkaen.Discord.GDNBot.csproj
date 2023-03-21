@@ -7,6 +7,8 @@
         <Nullable>enable</Nullable>
         <Title>Arkaen.Discord.SmartBots</Title>
         <Authors>Arkaen Solutions</Authors>
+        <ApplicationIcon>ArkSol_0x03.png</ApplicationIcon>
+        <IsPackable>false</IsPackable>
     </PropertyGroup>
 
     <ItemGroup>
