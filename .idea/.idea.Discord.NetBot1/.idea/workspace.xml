@@ -4,10 +4,9 @@
     <projectFile>Discord.NetBot1/Discord.NetBot1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09c211ea-c48d-4352-a422-94b1ee7d3800" name="Changes" comment="Added bot project">
-      <change beforePath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/bin/Debug/net7.0/Arkaen.Discord.GDNBot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/bin/Debug/net7.0/Arkaen.Discord.GDNBot.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/bin/Debug/net7.0/Arkaen.Discord.GDNBot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/bin/Debug/net7.0/Arkaen.Discord.GDNBot.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/obj/Debug/net7.0/apphost.exe" afterDir="false" />
+    <list default="true" id="09c211ea-c48d-4352-a422-94b1ee7d3800" name="Changes" comment="added icon">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arkaen.Discord.GDNBot/ArkSol_0x03.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679364430316</updated>
-      <workItem from="1679364431062" duration="3564000" />
+      <workItem from="1679364431062" duration="3870000" />
     </task>
     <task id="LOCAL-00001" summary="Added bot project">
       <created>1679379833816</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679379833816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added icon">
+      <created>1679380151723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679380151723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +98,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added bot project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bot project" />
+    <MESSAGE value="added icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="added icon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
